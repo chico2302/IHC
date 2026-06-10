@@ -52,21 +52,19 @@ Como a atividade consiste no desenvolvimento de um sistema para pessoas com defi
 
 ### Objetivo
 
-Descreva o objetivo da atividade.
+Entender a construção de um storyboard e o processo de prototipação.
 
 ### Solução Desenvolvida
 
-Apresente um resumo do storyboard ou protótipo desenvolvido.
+A história elaborada foi do desenvolvimento e as etapas utilizadas para o desenvolvimento dessa solução. 
 
 ### Ferramentas Utilizadas
 
-- Ferramenta 1
-- Ferramenta 2
+- A solução proposta e a história desenvolvida foi por arquivo de texto.
 
 ### Arquivos Entregues
 
-- arquivo1.ext
-- arquivo2.ext
+- UA3_Desafio.txt
 
 ---
 
