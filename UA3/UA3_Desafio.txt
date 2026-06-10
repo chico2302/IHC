@@ -1,0 +1,7 @@
+1. Ricardo, um entusiasta das tecnologias, esta perdendo a visão e enfrentando dificuldades para se locomover em ambientes desconhecidos.
+2. Por conta desse obstáculo e as preferências tecnológicas, a sugestão imaginada é relacionando ambos.
+3. Sugestão imaginada: Aplicação de geolocalização com assistência de voz. 
+4. Funcionalidade básica: Usuário deseja ir à algum lugar -> Sistema calcula a rota -> Vibra e explica o próximo passo por áudio -> Usuário chega no lugar desejado.
+5. Convidar o usuário para testar.
+6. Implementar melhorias sugeridas e corrigir erros reportados pelo usuário.
+7. Resultado final.
