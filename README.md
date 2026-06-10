@@ -36,16 +36,15 @@ Foram identificados os problemas do sistema apresentado e feitas sugestões base
 
 ### Objetivo
 
-Descreva o objetivo da atividade.
+Uma situação hipotética sobre tipos de sistemas é apresentada com intuito de reforçar o conteúdo da UA2, focando em Acessibilidade, Interface e Interação.
 
 ### Solução Desenvolvida
 
-Apresente um resumo da atividade realizada.
+Como a atividade consiste no desenvolvimento de um sistema para pessoas com deficiências visuais, as sugestões entregues eram de sistemas com base em voz ou sistemas com compatibilidade com elementos de acessibilidade tal qual leitores de tela e leitores de braile. 
 
 ### Arquivos Entregues
 
-- arquivo1.ext
-- arquivo2.ext
+- UA2_Desafio.txt
 
 ---
 
