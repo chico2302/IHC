@@ -1,0 +1,8 @@
+O sistema apresentado na imagem tem uma quantidade baixa de interações possíveis, logo seria interessante colocar um texto ALT nos botões para possibilitar o uso por pessoas que necessitam o uso de leitores de tela. Além disso, um texto coeso como "Confirmar a remoção do usuário: (nome do usuário) do sistema?" "Confirmar e avançar" "Cancelar e retornar" que deixem claro ao usuário o que cada opção faz é de extrema importância, além de cores apropriadas que ajudem a expressar as opções, como vermelho para representar a remoção do usuário do sistema.
+Listando:
+Adicionar Textos Alternativos (alt) para melhor acessibilidade.
+Exibir o nome do usuário que está sendo removido.
+Corrigir erros de grafia e melhorar a clareza dos textos.
+Alterar "Avançar" por "Remover".
+Alterar "Retornar" por "Cancelar".
+Atribuir cores como Vermelho para o botão "Remover".
