@@ -1,0 +1,2 @@
+a) Uma interface baseada em voz, que tenha como principal elemento a fala e responda com text-to-speech, ou alguma interface acessível compatível com tecnologias de acessibilidade, tendo navegabilidade por teclado e textos alternativos para uma boa compatibilidade acessível. 
+b) Um leitor de tela, para que os usuários consigam, sem precisar da visão, utilizar o sistema através da audição, e fones de ouvido, para o uso do leitor de tela. Além disso, leitores de braile também podem ser utilizados para caso os usuários tenham preferência.
