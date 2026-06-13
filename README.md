@@ -72,19 +72,18 @@ A história elaborada foi do desenvolvimento e as etapas utilizadas para o desen
 
 ### Objetivo
 
-Descreva o objetivo da atividade.
+Mostrar o aprendizado de Classes e Objetos em TypeScript em um contexto de site de vendas.
 
 ### Funcionalidades Implementadas
 
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
+- Classe "Produto" que contém 5 atributos que à caracterizam.
+- Classe "Venda" que consiste de uma array de produtos e o valor final dessa compra.
+- Instanciação de objetos, adição deles à uma venda e o cálculo do valor final.
 
 ### Tecnologias Utilizadas
 
 - TypeScript
 - Node.js
-- Outras bibliotecas
 
 ### Como Executar o Projeto
 
@@ -113,8 +112,7 @@ tsc
 
 ### Arquivos Entregues
 
-- arquivo1.ext
-- arquivo2.ext
+- UA4_Desafio.js
 
 ---
 
