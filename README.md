@@ -119,7 +119,6 @@ tsc
 ## Considerações Finais
 
 O aprendizado adquirido sobre as 4 Unidades de Aprendizado consiste de 4 pilares do IHC, a importância da navegabilidade, ideais tipos de interfaces para cada situação, as formas de estruturar e analisar o problema do usuário de forma empática e o uso da linguagem typescript para programação. Com todos conteúdos abordados, e as atividades o conteúdo foi muito bem absorvido, tendo tanto teoria quanto prática.
----
 
 ## Declaração de Autoria
 
