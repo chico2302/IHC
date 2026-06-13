@@ -6,7 +6,7 @@
 - Matrícula: 22408832
 - Curso: Ciência da Computação
 - Polo: Asa Norte
-- Data de Entrega:
+- Data de Entrega: 13/06/2026
 
 ## Descrição Geral
 
@@ -112,21 +112,21 @@ tsc
 
 ### Arquivos Entregues
 
-- UA4_Desafio.js
+- UA4_Desafio.ts
 
 ---
 
 ## Considerações Finais
 
-Descreva os principais aprendizados obtidos durante a realização das atividades.
-
+O aprendizado adquirido sobre as 4 Unidades de Aprendizado consiste de 4 pilares do IHC, a importância da navegabilidade, ideais tipos de interfaces para cada situação, as formas de estruturar e analisar o problema do usuário de forma empática e o uso da linguagem typescript para programação. Com todos conteúdos abordados, e as atividades o conteúdo foi muito bem absorvido, tendo tanto teoria quanto prática.
 ---
 
 ## Declaração de Autoria
 
 Declaro que este trabalho foi desenvolvido por mim, 
 respeitando as normas acadêmicas e de integridade estabelecidas pela instituição.
+Declaro o uso de Inteligência Artificial (ChatGPT-5.5) para brainstorming e formatação no desenvolvimento do trabalho.
 
-**Nome do Estudante:** _______________________
+**Nome do Estudante:** Francisco Barbosa Ribeiro
 
-**Data:** ____/____/________
+**Data:** 13/06/2026
