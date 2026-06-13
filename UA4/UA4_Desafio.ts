@@ -55,3 +55,6 @@ const produto2 = new Produto(
   "Xiaomi",
   45
 );
+
+const venda = new Venda([produto1, produto2]);
+console.log("Valor total da venda: R$ " + venda.calcularTotal());
